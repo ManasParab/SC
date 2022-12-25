@@ -64,7 +64,7 @@ ul {
   list-style: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .divBGtop {
     background-color: rgb(81, 0, 108);
     width: 98%;
@@ -126,7 +126,7 @@ ul {
   }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 801px) {
   body {
     margin: 0;
   }
