@@ -18,6 +18,11 @@ p {
   padding: 1%;
 }
 
+.MPlogo {
+  margin-top: 1vw;
+  margin-bottom: -2vw;
+}
+
 .gradientBG2 {
   background-color: rgb(81, 0, 108);
   background-image: linear-gradient(to bottom right, rgb(81, 0, 108), violet);
